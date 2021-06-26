@@ -1,12 +1,12 @@
 //background: linear-gradient(90deg, rgba(23,20,54,1) 0%, rgba(130,130,180,1) 35%);;
 const outer = document.querySelector(".wrapper");
-console.log(outer);
+//console.log(outer);
 const inner = document.querySelector(".card");
-console.log(inner);
+//console.log(inner);
 const image = document.querySelector(".img");
-console.log(image);
+//console.log(image);
 const quotes = document.querySelector(".description");
-console.log(quotes);
+//console.log(quotes);
 
 console.log(window.pageXOffset);
 //console.log(window.pageYOffset);
